@@ -53,7 +53,7 @@
                 string rezult = "";
                 
                 n = number % 100;
-                if (n >= 10 & n <= 20) rezult = "программистов";
+                if (n >= 10 & n <= 14) rezult = "программистов";
                 else
                 {
                     n = number % 10;
